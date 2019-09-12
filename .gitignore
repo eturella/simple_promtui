@@ -1,0 +1,4 @@
+vendor
+all-cover.txt
+Gopkg.lock
+go.sum
